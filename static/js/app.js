@@ -131,7 +131,7 @@ function graphs(id) {
                     type: "indicator",
                     mode: "gauge+number",
                     gauge: {
-                        axis: { range: [null, 10] },
+                        axis: { range: [null, 9] },
                         bar: { color: "rgb(31, 119, 180)" },
                     }
                 }
